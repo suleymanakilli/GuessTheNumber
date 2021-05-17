@@ -17,7 +17,7 @@ let randomNumber;
 // Variable for store the correct random number 
 
 
-window.onload = function() { 
+window.onload = function() {
     initGame()
     document.getElementById("number-submit").addEventListener("click", playGame);
     document.getElementById("restart-game").addEventListener("click", initGame)
