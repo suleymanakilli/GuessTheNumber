@@ -5,3 +5,5 @@ This program generates random number between 1 and 100 and tells if your guess i
 
 ![guessthenumber2](https://user-images.githubusercontent.com/59077389/118488291-43417100-b724-11eb-9f1b-e5a6c32d3a88.JPG)
 
+![guessthenumber3](https://user-images.githubusercontent.com/59077389/118488298-44729e00-b724-11eb-9031-52c1bd09cc27.JPG)
+
